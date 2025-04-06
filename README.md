@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hey there! 👋 I'm Milan
 
-<!--
-**Milan0211/Milan0211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BTech CSE | 🧠 DSA & Web Dev Enthusiast | 💻 Future Software Engineer
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🔭 Currently working on: 90 Days DSA Challenge
+- 🌱 Learning: Full Stack Development + Competitive Coding
+- 💬 Ask me about: C++, Python, DSA concepts, Git
+- 📫 Reach me: milansain9@gmail.com | www.linkedin.com/in/milan02
+- ⚡ Fun fact: I write code to relax 😎
+
+---
+
+## 🛠️ Tech Stack
+- **Languages:** C++, Python, HTML, CSS, JavaScript (Basics)
+- **Tools:** Git, VS Code, GitHub, Canva
+- **Learning:** React.js, Node.js
+
+---
+
+
+
+Let’s connect and code together! 🚀
+
